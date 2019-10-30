@@ -4,7 +4,6 @@ import re
 import sys
 
 # url = input('Enter url - ' )
-# url = 'http://people.stern.nyu.edu/adamodar/pdfiles/val3ed'
 print("This script downloads hyper-linked files from a given URL.")
 
 # Input: URL to parse & type of file formats for downloading from a URL 
